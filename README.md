@@ -191,12 +191,3 @@ Model Monitoring: Implement tools to monitor model performance in production for
 
 Improved Frontend: Enhance the web interface with a more sophisticated frontend framework (e.g., React, Vue.js).
 
-## License 📄
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact ✉️
-For any questions or suggestions, feel free to reach out:
-
-[AMAN RAJ] - [amanraj07331@gmail.com]
-
-Project Link: https://github.com/amanraj07331/cnn-models/tree/main
